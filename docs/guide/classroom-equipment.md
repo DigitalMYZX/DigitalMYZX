@@ -96,5 +96,7 @@
 
 
 ::: details 参考
-[希沃管家更新日志](https://campus.seewo.com/iot-public/file/?key=iot_doc_seewoServiceUpdateLog)
+- [希沃管家更新日志](https://campus.seewo.com/iot-public/file/?key=iot_doc_seewoServiceUpdateLog)
+- [希沃集控文档](https://help.seewo.com/hugo/)
+- [查MD5啦](https://cmd5.la/)
 :::

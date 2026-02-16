@@ -39,3 +39,7 @@
   description="学校广播的铃声及山下草坪、走廊、食堂音响播放的部分音乐" 
   logo="/icons/share.svg"
 />
+
+::: details 参考
+- [四川省绵阳中学学校校园数字IP广播及高考保障系统采购项目中标（成交）结果公告](https://ggzyjy.sc.gov.cn/jyxx/002002/002002003/20240523/8a69d19a8f725648018fa30e1da96cd3.html)
+:::
