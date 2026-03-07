@@ -70,7 +70,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Nick-DL/DigitalMYZX' }
+      { icon: 'github', link: 'https://github.com/DigitalMYZX/DigitalMYZX' }
     ],
 
     outline: {

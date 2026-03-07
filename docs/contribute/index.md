@@ -2,7 +2,7 @@
 
 本站内容在 GitHub 仓库中维护，欢迎通过提交 PR 的方式共同完善。
 
-https://github.com/Nick-DL/DigitalMYZX
+https://github.com/DigitalMYZX/DigitalMYZX
 
 ## 基本流程
 
@@ -14,11 +14,11 @@ https://github.com/Nick-DL/DigitalMYZX
 
 ### 提交 Issue
 
-https://github.com/Nick-DL/DigitalMYZX/issues
+https://github.com/DigitalMYZX/DigitalMYZX/issues
 
 ### 联系我
 
-[发送邮件](mailto:nick_dl@outlook.com)
+[发送邮件](mailto:digitalmyzx@outlook.com)
 
 ## To-do list
 
