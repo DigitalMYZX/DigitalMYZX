@@ -2,6 +2,12 @@
 
 这里收集了校园广播系统常用的素材资源。
 
+## 铃声
+
+网易云播客：[绵阳中学广播铃声合集](https://music.163.com/djradio?id=1214280104)
+
+这个播客包含了上下课铃、健美操、眼操、睡前音乐和远古起床音乐。
+
 ## 第三版音乐扩充歌单
 
 大多数来自酷狗音乐歌单：[学习日常｜自律是人生开挂的开始](https://m.kugou.com/songlist/gcid_3zo802f1z15z031/?src_cid=3zo802f1z15z031&kgsscty1=message&chl=message)
