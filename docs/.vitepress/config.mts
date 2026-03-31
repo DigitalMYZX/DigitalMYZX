@@ -35,7 +35,7 @@ export default defineConfig({
             { text: '4. 教室空调', link: '/guide/classroom-ac' },
             { text: '5. 电子班牌（请假系统）', link: '/guide/electronic-class-badge' },
             { text: '6. 办公设备', link: '/guide/office-equipment' },
-            { text: '7. 流水系统', link: '/guide/circulation-system' },
+            { text: '7. 流水系统', link: '/guide/campus-card-system' },
             { text: '8. 广播系统', link: '/guide/broadcasting' },
             { text: '9. 监控', link: '/guide/monitor' }
           ]
