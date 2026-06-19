@@ -1,12 +1,15 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { useData } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 import { Waline } from '@waline/client/component'
 import '@waline/client/style'
 
 const serverURL = 'https://api.zcservice.houlang.cloud/comment/d1f4a600b4daab96a8f24cb0ca704204'
 
 const { isDark } = useData()
+const route = useRoute()
+const pagePath = computed(() => route.path)
+
 const darkMode = computed(() => isDark.value ? 'html[class~="dark"]' : false)
 
 const emojiList = [
@@ -17,9 +20,10 @@ const emojiList = [
 </script>
 
 <template>
-  <div class="waline-container">
+  <div class="waline-container" :key="pagePath">
     <Waline
       :serverURL="serverURL"
+      :path="pagePath"
       :lang="'zh-CN'"
       :dark="darkMode"
       :imageUploader="false"
