@@ -1,5 +1,6 @@
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import Layout from './Layout.vue'
 import './custom.css'
 import './style/index.css'
 import Linkcard from "./components/Linkcard.vue"
@@ -8,6 +9,7 @@ import Linkcard from "./components/Linkcard.vue"
 
 export default {
   extends: DefaultTheme,
+  Layout,
   enhanceApp({app}: {app: any}) { 
     // 注册全局组件
     app.component('Linkcard' , Linkcard)

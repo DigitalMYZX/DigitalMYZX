@@ -75,3 +75,18 @@
   -webkit-mask-image: var(--icon);
   mask-image: var(--icon);
 }
+
+img {
+  max-height: 360px;
+}
+
+.img-description {
+  margin-top: 2px;
+  font-size: 12px;
+  color: var(--vp-c-text-2);
+  letter-spacing: 0.08em;
+}
+
+.wl-panel {
+  margin: 0px;
+}

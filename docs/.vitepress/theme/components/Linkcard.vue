@@ -71,6 +71,7 @@ const props = withDefaults(defineProps<Props>(), {
 /* 描述链接文字2 */
 .linkcard .description span {
     font-size: 14px;
+    color: var(--vp-c-text-2);
 }
 
 /* logo图片 */
