@@ -41,3 +41,11 @@ hero:
 - [西邮 Wiki](https://wiki.cooo.site/)
 - [绵阳中学 Wiki](https://scmyzx.fandom.com/zh/wiki/绵阳中学_Wiki)
 :::
+
+::: details 关于评论服务
+本站采用了 [ZeroCat 社区](https://zerocat.dev/) 提供的 Waline 评论服务，在此致谢！
+
+评论时填写正确的邮箱，后期会有邮件提醒回复等互动操作。
+
+可前往 ZeroCat 社区[注册账户](https://zerocat.dev/app/account/register)或[查看接入文档](https://zerocat.dev/app/commentservice)。
+:::
