@@ -1,4 +1,8 @@
-# 7. 流水系统
+<h1 class="chapter-header">
+  <span class="chapter-header-num">七</span>
+  <span class="chapter-header-title">流水系统</span>
+  <span class="chapter-header-en">Campus Card System</span>
+</h1>
 
 使用"智慧校园卡"吃饭、喝水，便经过了这两套系统。
 

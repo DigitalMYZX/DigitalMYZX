@@ -28,16 +28,16 @@ export default defineConfig({
           text: '指南',
           items: [
             { text: '序言', link: '/guide/' },
-            { text: '0. 概述', link: '/guide/overview' },
-            { text: '1. 校园网', link: '/guide/campus-local-area-network' },
-            { text: '2. 希沃（教室电教设备）', link: '/guide/classroom-equipment' },
-            { text: '3. 教室灯', link: '/guide/classroom-lights' },
-            { text: '4. 教室空调', link: '/guide/classroom-ac' },
-            { text: '5. 电子班牌（请假系统）', link: '/guide/electronic-class-badge' },
-            { text: '6. 办公设备', link: '/guide/office-equipment' },
-            { text: '7. 流水系统', link: '/guide/campus-card-system' },
-            { text: '8. 广播系统', link: '/guide/broadcasting' },
-            { text: '9. 监控', link: '/guide/monitor' }
+            { text: '零 概述', link: '/guide/overview' },
+            { text: '一 校园网', link: '/guide/campus-local-area-network' },
+            { text: '二 希沃（教室电教设备）', link: '/guide/classroom-equipment' },
+            { text: '三 教室灯', link: '/guide/classroom-lights' },
+            { text: '四 教室空调', link: '/guide/classroom-ac' },
+            { text: '五 电子班牌（请假系统）', link: '/guide/electronic-class-badge' },
+            { text: '六 办公设备', link: '/guide/office-equipment' },
+            { text: '七 流水系统', link: '/guide/campus-card-system' },
+            { text: '八 广播系统', link: '/guide/broadcasting' },
+            { text: '九 监控', link: '/guide/monitor' }
           ]
         },
         {

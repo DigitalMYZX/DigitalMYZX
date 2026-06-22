@@ -1,4 +1,8 @@
-# 5. 电子班牌（请假系统）
+<h1 class="chapter-header">
+  <span class="chapter-header-num">五</span>
+  <span class="chapter-header-title">电子班牌<br><span style="font-size:24px; font-weight: 600; letter-spacing: 0.05em;">请假系统</span></span>
+  <span class="chapter-header-en">Electronic Class Badge</span>
+</h1>
 
 电子班牌是同学们除希沃外能接触到的最多的设备。从其数量规模、软硬件功能来看，其可玩性非常高。
 

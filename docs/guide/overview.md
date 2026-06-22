@@ -1,4 +1,8 @@
-# 0. 概述
+<h1 class="chapter-header">
+  <span class="chapter-header-num">零</span>
+  <span class="chapter-header-title">概述</span>
+  <span class="chapter-header-en">Overview</span>
+</h1>
 
 绵阳中学当前的建筑大多修建于 2005 到 2010 年间，所有的硬件设施都在此后安装，且大多已完成了 1-2 次迭代更新。
 

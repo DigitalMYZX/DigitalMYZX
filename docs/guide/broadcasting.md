@@ -1,4 +1,8 @@
-# 8. 广播系统
+<h1 class="chapter-header">
+  <span class="chapter-header-num">八</span>
+  <span class="chapter-header-title">广播系统</span>
+  <span class="chapter-header-en">Broadcasting</span>
+</h1>
 
 2024 年暑假，绵中对广播系统做了硬件升级，改动位于教室、寝室、食堂，新增花园、草坪音响。现将升级前后称作“旧系统”、“新系统”。
 

@@ -1,4 +1,8 @@
-# 6. 办公设备
+<h1 class="chapter-header">
+  <span class="chapter-header-num">六</span>
+  <span class="chapter-header-title">办公设备</span>
+  <span class="chapter-header-en">Office Equipment</span>
+</h1>
 
 ## 电脑
 
