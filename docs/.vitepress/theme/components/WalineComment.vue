@@ -4,7 +4,7 @@ import { useData, useRoute } from 'vitepress'
 import { Waline } from '@waline/client/component'
 import '@waline/client/style'
 
-const serverURL = 'https://api.zcservice.houlang.cloud/comment/d1f4a600b4daab96a8f24cb0ca704204'
+const serverURL = 'https://api.zerocat.dev/comment/d1f4a600b4daab96a8f24cb0ca704204'
 
 const { isDark } = useData()
 const route = useRoute()
